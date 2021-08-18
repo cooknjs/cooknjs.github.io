@@ -1,3 +1,5 @@
+![Cook'n'JS](logo.png)
+
 ## Hi! Ready to cook?
 
 Cook'n'JS is a simple yet powerful static website generator prototype. It's conceived to rely on a small subset of battle tested technologies yet able to be extended.
