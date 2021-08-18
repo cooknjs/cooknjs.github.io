@@ -5,9 +5,9 @@ Cook'n'JS is a simple yet powerful static website generator prototype. It's conc
 ### Goals
 
 - Provide a complete CLI (whisker) to deal with every task and need
-- Clearly organized content and project structure
+- Clearly organized content and project structure (baskets)
 - Markdown pages, posts and articles (more on that division concept below)
 - Allow to retrieve and serialize JSON and YAML datasets
 - On the fly (re)generation of JSON schema from content
-- Content abstraction layer
-- Extendable
+- Content abstraction layer (recipes)
+- Extendable (eggs)
